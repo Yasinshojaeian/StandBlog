@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="185.226.119.202" id="891b7d8d-b728-4b88-b972-9c76d743b53d" port="22" customName="WebTs" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="WebTs" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

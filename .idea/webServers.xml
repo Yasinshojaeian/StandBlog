@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4b873830-1eb5-4630-b04d-c663b4ce8606" name="WebTs" url="">
+        <fileTransfer rootFolder="/var/www/ProjectManagement/" accessType="SFTP" host="185.226.119.202" port="22" sshConfigId="891b7d8d-b728-4b88-b972-9c76d743b53d" sshConfig="WebTs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
